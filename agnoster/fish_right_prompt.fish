@@ -9,7 +9,7 @@ function fish_right_prompt
     if math "$diff>0" > /dev/null
       echo "["$AWS_ROLE_NAME"|"$diff"s] "
     else
-      awsclear
+      aws-clear
     end
 
   end
