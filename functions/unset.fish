@@ -1,3 +1,3 @@
 function unset
-	set -e $argv;
+  set -e $argv
 end

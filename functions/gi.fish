@@ -1,3 +1,3 @@
 function gi --description 'alias gi git'
-	git $argv;
+  git $argv
 end

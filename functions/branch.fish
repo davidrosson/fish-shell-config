@@ -1,3 +1,3 @@
 function branch
-	git branch;
+  git branch
 end
